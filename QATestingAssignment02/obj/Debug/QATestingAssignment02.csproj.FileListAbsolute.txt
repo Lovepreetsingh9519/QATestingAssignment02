@@ -1,0 +1,9 @@
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\bin\Debug\QATestingAssignment02.exe.config
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\bin\Debug\QATestingAssignment02.exe
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\bin\Debug\QATestingAssignment02.pdb
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\bin\Debug\nunit.framework.dll
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\bin\Debug\nunit.framework.xml
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\obj\Debug\QATestingAssignment02.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\obj\Debug\QATestingAssignment02.csproj.CopyComplete
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\obj\Debug\QATestingAssignment02.exe
+C:\Users\Rohit Luthra\Desktop\QATestingAssignment02\QATestingAssignment02\obj\Debug\QATestingAssignment02.pdb
